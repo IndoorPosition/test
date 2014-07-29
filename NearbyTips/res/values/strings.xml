@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NearbyTips</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!--tip names-->
+    <string name="tip_name_1">新品上市</string>
+    <string name="tip_name_2">优惠促销</string>
+    <string name="tip_name_3">前方有小店</string>
+    
+    <!--iBeacon Mac -->
+	<string name="mac1">D9:B6:F4:47:AB:24</string>
+	<string name="mac2">FD:34:F8:83:5F:57</string>
+	<string name="mac3">FD:89:78:F6:FC:BC</string>
+	
+	<!--Toast text -->
+	<string name="NO_BLE">蓝牙设备不支持</string>
+	<string name="UNABLE_BLE">蓝牙未开启</string>
+	
+</resources>
