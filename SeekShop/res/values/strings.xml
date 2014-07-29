@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SeekShop</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!--Toast text -->
+	<string name="NO_BLE">蓝牙设备不支持</string>
+	<string name="UNABLE_BLE">蓝牙未开启</string>
+
+</resources>
