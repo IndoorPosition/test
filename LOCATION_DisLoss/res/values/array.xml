@@ -1,0 +1,21 @@
+<resources>
+    <string-array name = "Mac">
+        <item >ec:88:8f:b4:f3:24</item>
+        <item >6c:e8:73:69:1c:52</item>
+		<item >6c:e8:73:68:fe:96</item>
+		<item >6c:e8:73:69:1d:16</item>
+    </string-array>
+    <integer-array name = "x10">
+        <item >0</item>
+        <item >0</item>
+		<item >84</item>
+		<item >84</item>
+    </integer-array>
+    <integer-array name = "y10">
+        <item >66</item>
+        <item >0</item>
+		<item >0</item>
+		<item >66</item>
+    </integer-array>
+</resources>
+    
